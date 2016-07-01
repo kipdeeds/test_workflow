@@ -6,7 +6,7 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/workflows.git"
+    "url": "https://github.com/kipdeeds/test_workflow"
   },
   "author": "Kip Deeds",
   "devDependencies": {
